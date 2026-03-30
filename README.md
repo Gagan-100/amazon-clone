@@ -59,13 +59,19 @@ amazon-clone/
 
 ## 📸 Screenshots
 
-<img width="1892" height="970" alt="Screenshot 2026-03-30 123608" src="https://github.com/user-attachments/assets/011429d2-b6db-4d0a-909f-d787a2db080e" />
+## 📸 Screenshots
 
-<img width="1911" height="943" alt="Screenshot 2026-03-30 123635" src="https://github.com/user-attachments/assets/5b5e431c-84ea-4757-9a96-0d99b9409007" />
+### 🏠 Home Page (Product Listing)
+<img src="https://github.com/user-attachments/assets/011429d2-b6db-4d0a-909f-d787a2db080e" width="100%" />
 
-<img width="1914" height="961" alt="Screenshot 2026-03-30 123658" src="https://github.com/user-attachments/assets/f4b746f7-6af1-455a-aa62-07724dea5f24" />
+### 🛒 Cart Functionality
+<img src="https://github.com/user-attachments/assets/5b5e431c-84ea-4757-9a96-0d99b9409007" width="100%" />
 
-<img width="1910" height="948" alt="Screenshot 2026-03-30 123937" src="https://github.com/user-attachments/assets/44bdf08b-5136-4b19-87c7-bd1402e70370" />
+### 💳 Checkout Page
+<img src="https://github.com/user-attachments/assets/f4b746f7-6af1-455a-aa62-07724dea5f24" width="100%" />
+
+### 📦 Orders & Tracking
+<img src="https://github.com/user-attachments/assets/44bdf08b-5136-4b19-87c7-bd1402e70370" width="100%" />
 
 ---
 
