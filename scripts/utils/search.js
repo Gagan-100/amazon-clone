@@ -14,7 +14,7 @@ export function initGlobalSearch() {
     if (!search) return;
 
     window.location.href =
-      `amazon.html?search=${encodeURIComponent(search)}`;
+      `index.html?search=${encodeURIComponent(search)}`;
   }
 
   /* Trigger search on button click */
