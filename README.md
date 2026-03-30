@@ -6,7 +6,7 @@ This project replicates core shopping features like product browsing, cart manag
 ---
 
 ## 🚀 Live Demo
-👉 
+👉 https://amazon-clone-gagan.netlify.app/
 
 ---
 
