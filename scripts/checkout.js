@@ -16,7 +16,7 @@ import { cart, loadCart } from "../data/cart.js";
 
        /* Update checkout UI with item count */
       document.querySelector('.js-checkout-items').innerHTML = `
-       Checkout (<a class="return-to-home-link" href="amazon.html">${cartQuan} items</a
+       Checkout (<a class="return-to-home-link" href="index.html">${cartQuan} items</a
           >)
       `;
     }
